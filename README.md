@@ -7,7 +7,7 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 <hr>
 </hr>
 
- Technologies & Tools
+### Technologies & Tools
  
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redhat/redhat-original-wordmark.svg"/>
@@ -36,7 +36,7 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 </hr>
 
 
-Active Certifications:
+### Active Certifications:
 
 AWS Certified Developer Associate
 
