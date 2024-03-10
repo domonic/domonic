@@ -4,6 +4,7 @@ As a DevOps engineer, my proficiency extends to container management with Docker
 
 Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS | DB | Dev
 
+Active Certifications: AWS Dev Assoc 
 <br>
 
 ---
