@@ -13,6 +13,9 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redhat/redhat-original-wordmark.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg"/>
 
 
 Active Certifications:
