@@ -36,7 +36,12 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 
 <br />
 
+
+
 ---
+
+
+
 
 ### Active Certifications:
 
