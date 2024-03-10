@@ -34,10 +34,6 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/firebase" />
 
 
-<br />
-
-
-
 ---
 
 
