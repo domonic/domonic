@@ -43,11 +43,6 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 
 
 
-### Active Certifications:
-
-AWS Certified Developer Associate
-
-
 <!--
 **domonic/domonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
