@@ -8,6 +8,9 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 
  Technologies & Tools
 
+<hr>
+</hr>
+
 Active Certifications:
 
 AWS Certified Developer Associate
