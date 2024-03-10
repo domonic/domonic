@@ -4,8 +4,7 @@ As a DevOps engineer, my proficiency extends to container management with Docker
 
 Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS | DB | Dev
 
-<hr>
-</hr>
+<br>
 
 ---
 
@@ -35,13 +34,12 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/firebase"/>
 
 
-
+<br />
 
 ### Active Certifications:
 
 AWS Certified Developer Associate
 
-<br />
 <!--
 **domonic/domonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
