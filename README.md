@@ -1,6 +1,9 @@
 ### Hello :wave:, I’m Domonic
 As a DevOps engineer, my proficiency extends to container management with Docker in Kubernetes environments, with a strong foundation in version control using GIT. I am adept at deploying and managing a wide array of DevOps technologies and tools, such as GIT, GitHub, GitLab, Terraform, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Argo CD, along with AWS services like EKS, ECS, Code Commit, CodeBuild, CodeDeploy, and CodePipeline. My experience encompasses DevOps, GitOps, CI/CD pipelines, build and release management, IaC ( Terraform ), containerization, and cloud services, primarily AWS, coupled with solid Linux administration skills and networking concepts, including TCP/IP protocols, firewalls, IP addressing, and DNS. This multifaceted skill set enables me to drive efficiency, reliability, and scalability in development processes.
 
+<hr>
+</hr>
+
 Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS |
 
  Technologies & Tools
