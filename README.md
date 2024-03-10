@@ -40,6 +40,7 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 ### Active Certifications:
 
 AWS Certified Developer Associate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8ee822b8-0a1b-4798-935f-a28256f132bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 **domonic/domonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
