@@ -2,7 +2,7 @@
 As a DevOps engineer, my proficiency extends to container management with Docker in Kubernetes environments, with a strong foundation in version control using GIT. I am adept at deploying and managing a wide array of DevOps technologies and tools, such as GIT, GitHub, GitLab, Terraform, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Argo CD, along with AWS services like EKS, ECS, Code Commit, CodeBuild, CodeDeploy, and CodePipeline. My experience encompasses DevOps, GitOps, CI/CD pipelines, build and release management, IaC ( Terraform ), containerization, and cloud services, primarily AWS, coupled with solid Linux administration skills and networking concepts, including TCP/IP protocols, firewalls, IP addressing, and DNS. This multifaceted skill set enables me to drive efficiency, reliability, and scalability in development processes.
 
 
-Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS |
+Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS | DB | Dev
 
 <hr>
 </hr>
@@ -13,9 +13,25 @@ Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Conta
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redhat/redhat-original-wordmark.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/argocd/argocd-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prometheus/prometheus-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/react"/>
+<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/firebase"/>
+
 
 
 Active Certifications:
