@@ -31,8 +31,6 @@ Active Certifications: AWS Dev Assoc
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/react" />
-<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/firebase" />
 
 
 
