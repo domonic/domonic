@@ -17,7 +17,6 @@ CKA ( Certified Kubernetes Administrator )
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redhat/redhat-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg" />
@@ -31,8 +30,7 @@ CKA ( Certified Kubernetes Administrator )
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="Java" width="38px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" />
+
 
 
 
