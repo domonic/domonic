@@ -1,6 +1,4 @@
-### Hello :wave:, I’m Domonic
-
-DevOps Engineer at Amazon Web Services specializing in container orchestration, cloud infrastructure, and automation on AWS. I design and operate solutions that improve system reliability and automate the full infrastructure lifecycle — from Terraform-based provisioning to CI/CD pipelines and observability.
+### DevOps Engineer at Amazon Web Services specializing in container orchestration, cloud infrastructure, and automation on AWS. I design and operate solutions that improve system reliability and automate the full infrastructure lifecycle — from Terraform-based provisioning to CI/CD pipelines and observability.
 
 Skills :toolbox:: Linux | Networking | Scripting | Python | GIT | GitOps | Containers | Kubernetes | IaC | AWS | Observability & Monitoring
 
